@@ -2,6 +2,7 @@
 
 
 // HEARTRATE
+// Glöm ej att ge permission i package.json filen
 // ---------------------------------------------------------------
 import { HeartRateSensor } from "heart-rate";
 import { me } from "appbit";
